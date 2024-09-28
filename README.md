@@ -8,7 +8,7 @@ To run this project, you'll need:
 - Python 3.x
 - The following Python libraries:
   - `qrcode`
-  - `Pillow` (used to handle image processing)
+  - `image` 
 
 # Project Overview
 This script generates a QR code with the following contact information:
